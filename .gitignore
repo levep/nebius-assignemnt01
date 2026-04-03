@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore generated Excel/CSV files to keep the repo lightweight
+# (Remove these lines if you WANT to push your generated data to GitHub)
+# data/assignment_01.xlsx
+# data/assignment_01_temp_*.csv
+# data/assignment_01_judge_*.csv
